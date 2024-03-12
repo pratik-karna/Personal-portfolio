@@ -60,7 +60,7 @@ const About = () => {
 
             </p>
           </Col>
-          <Col md={4} className="myAvtar">
+          <Col md={4} className="myAvar">
             <Tilt>
               <img src={LaptopImg} className="img-fluid" alt="avatar" />
             </Tilt>
