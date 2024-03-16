@@ -100,7 +100,7 @@ const About = () => {
                   href="https://www.linkedin.com/in/pratikkarna/"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-color  home-social-icons"
                   aria-label="linkedin"
                 >
                   <FaLinkedinIn />
