@@ -23,7 +23,7 @@ const Contact = () => {
       setNotDone(true)
     } else {
       
-      //  Please use your own credentials from emailjs or i will recive your email
+      //  Please use your own credentials from emailjs or i will receive your email
       
     emailjs
       .sendForm(
