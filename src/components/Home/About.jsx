@@ -33,11 +33,11 @@ const About = () => {
               <br />
               <br />I am proficient in
               <b className="yellow"> Javascript, </b>
-              as well as have knowledge in programming languages such as C, Java, Python,
+              as well as have knowledge in programming languages such as Java, Python, Javascript
               <br />
               <br />
               I have a passion for working
-              with <b className="yellow">Node.js, MongoDB,</b> and
+              with <b className="yellow">HTML, CSS, React.js, Springboot, MongoDB, MySQL</b> and
               <i>
                 <b className="yellow">
                   {" "}
